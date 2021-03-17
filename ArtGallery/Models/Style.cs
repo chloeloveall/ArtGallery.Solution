@@ -1,6 +1,6 @@
 namespace ArtGallery.Models
 {
-  public class Artwork
+  public class Style
   {
     // properties, constructors, methods, etc. go here
   }

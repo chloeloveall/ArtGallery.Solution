@@ -2,6 +2,9 @@ namespace ArtGallery.Models
 {
   public class Artist
   {
-    // properties, constructors, methods, etc. go here
+    public Artist()
+    {
+      this.JoinEntities = new HashSet<
+    }
   }
 }

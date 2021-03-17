@@ -7,7 +7,7 @@
 
 namespace ArtGallery.Controllers
 {
-  public class ArtworksController : Controller
+  public class StylesController : Controller
   {
 
   }
